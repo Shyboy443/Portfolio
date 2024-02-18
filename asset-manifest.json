@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/portfoli/static/css/main.1af75dea.css",
-    "main.js": "/portfoli/static/js/main.ebc81ec8.js",
-    "static/media/p2.png": "/portfoli/static/media/p2.b8a91955d058b615b5e1.png",
-    "static/media/Project_Charter_2024 S2.pdf": "/portfoli/static/media/Project_Charter_2024 S2.9b4929cff935722365f0.pdf",
-    "static/media/p1.png": "/portfoli/static/media/p1.b430e0a188a204f5a8dd.png",
-    "index.html": "/portfoli/index.html",
-    "main.1af75dea.css.map": "/portfoli/static/css/main.1af75dea.css.map",
-    "main.ebc81ec8.js.map": "/portfoli/static/js/main.ebc81ec8.js.map"
+    "main.css": "/Portfolio/static/css/main.1af75dea.css",
+    "main.js": "/Portfolio/static/js/main.ce9a85c8.js",
+    "static/media/Ashen.pdf": "/Portfolio/static/media/Ashen.5b702e3f22654d9bdfb6.pdf",
+    "static/media/p2.png": "/Portfolio/static/media/p2.b8a91955d058b615b5e1.png",
+    "static/media/p1.png": "/Portfolio/static/media/p1.b430e0a188a204f5a8dd.png",
+    "index.html": "/Portfolio/index.html",
+    "main.1af75dea.css.map": "/Portfolio/static/css/main.1af75dea.css.map",
+    "main.ce9a85c8.js.map": "/Portfolio/static/js/main.ce9a85c8.js.map"
   },
   "entrypoints": [
     "static/css/main.1af75dea.css",
-    "static/js/main.ebc81ec8.js"
+    "static/js/main.ce9a85c8.js"
   ]
 }
