@@ -39,8 +39,11 @@ const About = () => {
             </article>
 
           </div>
-          <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Laudantium hic ducimus veniam sint, in qui facere consequuntur quis ea nihil neque velit repudiandae at tempore minima, mollitia quae a impedit!
-
+          <p className='p__hover'>
+          Hi, I'm Ashen Tennakoon, a dynamic full-stack developer with a year of experience in crafting responsive web applications. I thrive in both front-end and back-end development, combining design finesse with a strong grasp of server-side technologies. My tech toolkit includes HTML, CSS, JavaScript, Node.js, Python, MySQL, and MongoDB.
+I love the end-to-end development process, from concept to deployment, and take pride in delivering efficient and scalable solutions. Always staying ahead in this ever-evolving field, I enjoy embracing new challenges and technologies. Collaborative by nature, I excel in diverse teams, leveraging collective strengths to create impactful solutions.
+Beyond coding, I'm an avid learner, constantly exploring new frameworks and methodologies. My goal is to contribute to the digital landscape by creating software that not only meets but exceeds expectations.
+Let's build something incredible together . I'm excited to bring your ideas to life!
           </p>
         <a href='#contact' className='btn btn-primary'>Let's Talk</a>
         </div>
