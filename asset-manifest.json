@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.1af75dea.css",
+    "main.js": "/Portfolio/static/js/main.51dc36f9.js",
+    "static/media/p2.png": "/Portfolio/static/media/p2.b8a91955d058b615b5e1.png",
+    "static/media/Project_Charter_2024 S2.pdf": "/Portfolio/static/media/Project_Charter_2024 S2.9b4929cff935722365f0.pdf",
+    "static/media/p1.png": "/Portfolio/static/media/p1.b430e0a188a204f5a8dd.png",
+    "index.html": "/Portfolio/index.html",
+    "main.1af75dea.css.map": "/Portfolio/static/css/main.1af75dea.css.map",
+    "main.51dc36f9.js.map": "/Portfolio/static/js/main.51dc36f9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1af75dea.css",
+    "static/js/main.51dc36f9.js"
+  ]
+}
